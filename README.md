@@ -18,6 +18,16 @@ This jupyter notebook includes:
 the list goes on as I add new things. This project will serve as a practice project where as I explore more the world of data science and machine learning.
 if you have any suggestion on things I should try on, feel free to shoot a message on my [Twitter / X](https://twitter.com/nazhifkojaz).
 
+## Installation
+1. Create the environment from the `environment.yml` file
+```bash
+conda env create -f environment.yml
+```
+2. Activate the environment
+```bash
+conda activate my-spotify-usage-analysis
+```
+
 ## License and Data Usage
 This project is licensed under the MIT License, which allows you to freely use, modify, and distribute the code as long as appropriate attribution is given. The data collected from the Spotify API is used for educational purposes. Please refer to the [Spotify Developer Terms of Service](https://developer.spotify.com/terms/) for more information on the usage of Spotify data.
 
